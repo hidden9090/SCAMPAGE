@@ -13,10 +13,8 @@ telegram result
 
 Join our telegram channel to watch Demo & New Panels we release
 
-Channel : @zynexrootchannel
 
 
-Contact Telegram: @zynexroot
+Contact Telegram: https://t.me/hidden9090
 
 
-Contact jabber: zynexroot@jabber.ru
