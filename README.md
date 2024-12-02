@@ -7,11 +7,12 @@ Features:
 Live system no need loading page to redirect
 no socket installation required (long polling technique)
 support cpanel 
+Will Last very long (will not get Red easily )
+
 auto on/off mode
-onetime visit / mobile-only / mobile mode
+All Contry Banks 
 telegram result
 
-Join our telegram channel to watch Demo & New Panels we release
 
 
 
