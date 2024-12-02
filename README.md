@@ -8,7 +8,7 @@ Live system no need loading page to redirect
 no socket installation required (long polling technique)
 support cpanel 
 Will Last very long (will not get Red easily )
-
+OFFICE 365 SCAMPAGES ALSO AVAILABLE
 auto on/off mode
 All Contry Banks 
 telegram result
