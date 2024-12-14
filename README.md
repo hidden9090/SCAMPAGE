@@ -15,7 +15,8 @@ telegram result
 
 
 
- BEST SCAMPAGE IN TELEGRAM     
+ BEST SCAMPAGE SELLER IN TELEGRAM     
+
 Contact Telegram: https://t.me/hidden9090
 
 
