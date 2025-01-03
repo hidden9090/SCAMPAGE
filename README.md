@@ -4,7 +4,7 @@ I offer custom scam pages and live panels, with top functionality for any countr
 Contact me for pricing details and more information.
  
 Features: 
-Live system no need loading page to redirect
+Live system no need loading page to redirect 
 no socket installation required (long polling technique)        
 support cpanel 
 Will Last very long (will not get Red easily )
